@@ -1,14 +1,21 @@
-### Hi there 👋
+### Hi there 👋, My name is Ugurcan
+#### I am Full-Stack Developer
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<!--
-**UgurcanSARICI/UgurcanSARICI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS/ JS / REACT / BOOTSTRAP
 
-👨‍ 💻I'm Uğurcan, a full-time Full-Stack Developer 
 
-🔭 I’m currently student at bootcamp Clarusway
 
-🌱 I’m currently learning Full Stack Development
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UgurcanSARICI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ugurcansarici/)  
 
-❓ I'm 31 years old, from Turkey, learning enthusiast.
+[![trophy](https://github-profile-trophy.vercel.app/?username=UgurcanSARICI)](https://github.com/ryo-ma/github-profile-trophy)
 
-⚡ Fun fact: I like video games.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UgurcanSARICI)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=UgurcanSARICI&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=UgurcanSARICI)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=UgurcanSARICI)  
+
+![Profile views](https://gpvc.arturio.dev/UgurcanSARICI)  
